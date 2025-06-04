@@ -5,7 +5,12 @@
 * Al parecer para tener un hoobie solo se necesita un presupuesto de 200 soles iniciales.
 * Empezar por hoobies baratos como pescar.
 * Es importante hoobies productivos, ver peliculas y anime esta bien pero siempre hay que moverse porque "ejercicio es salud".
-* Usar la pesca para camuflar el skate. 
+* Usar la pesca para camuflar el skate.
+* Siempre tomar de refrencia los animes Isekai donde debes concinar, comerciar y ser útil para tener tus propias cosas.
+
+## Trabajos
+* Pescador
+* Vendedor Juegos Polvos Azules
 
 ## Siempre tener en cuenta:
 * Equipos de computo son siempre prioridad.
@@ -58,4 +63,8 @@
 
 
 ## Acciones concretas:
+
+
+## Futuro:
+- Diseñar un Shmup en Unity.
 
