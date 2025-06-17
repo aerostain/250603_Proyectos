@@ -1,6 +1,7 @@
 # Super Plan
 
 ## Diario
+* Eliminar todos carbohidratos
 * Bastón x3 (15min)
 * Yoga x2 (10min)
 
@@ -8,15 +9,16 @@
 * [--] Caminar Ida y Vuelta Bolichera - Real Plaza.
 * [--] 8k
 
-* [--] Medias (12paresx14so - Canepa)
-* [--] Casaca
-* [--] Zapatos
-
 * [--] Baston Trekking
-* [--] Carpa
+* [--] Medias (12paresx14so - Canepa)
 * [--] Guantes
 
+* [--] Casaca
+* [--] Zapatos
+* [--] Carpa
+
 ## Pesca
+* [--] Carrete y carnada en Chorrillos.
 
 ## Pc
 
